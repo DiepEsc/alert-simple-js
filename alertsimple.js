@@ -1,1 +1,1 @@
-alert('đã test thành công');
+alert('đã hack thành công. :v');
